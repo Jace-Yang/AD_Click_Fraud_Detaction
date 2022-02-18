@@ -14,4 +14,4 @@ Explanations of the folders:
 
     - Some of the `.feather` files genreated from `0_Input Data.ipynb` and `1_Feature_Engineering.ipynb` are also over 1 GB and not uploaded to GitHub.
 
-- the `output` folder saves the graphs and the result of the [project EDA slides](https://docs.google.com/presentation/d/1EzBHjcaslv-fPCEv-8x-c_Oe6x9LoPT1apVnat1MatY/edit?usp=sharing) and th report.
+- the `output` folder saves the graphs and the result of the [project EDA slides](https://github.com/Jace-Yang/AD_Click_Fraud_Detaction/blob/main/2_EDA.pdf) and th report.
